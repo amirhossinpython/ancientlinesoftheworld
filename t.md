@@ -1,1 +1,0 @@
-[![PyPI Downloads](https://static.pepy.tech/personalized-badge/aichatclient?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=BLUE&left_text=Downloads)](https://pepy.tech/projects/aichatclient)
